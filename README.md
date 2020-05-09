@@ -6,8 +6,10 @@
 
 **项目结构** 
 ```
-sms
+project
+│
 ├─src
+│  │
 │  ├─doc/sql                                   数据库表初始化SQL语句
 │  │
 │  ├─main/java/com.
