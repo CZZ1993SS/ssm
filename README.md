@@ -6,7 +6,7 @@
 
 **项目结构** 
 ```
-project
+ssm
 │
 ├─src
 │  │
@@ -46,10 +46,10 @@ project
 
 
  **Swagger 接口文档访问地址**
-- 访问地址： http://localhost:8080/project-one/swagger-ui.html
+- 访问地址： http://localhost:8080/ssm/swagger-ui.html
 
  **项目后台控制器访问地址**
-- 访问接口： http://localhost:8080/project-one(项目名称)/user(控制器)/getById(方法)
+- 访问接口： http://localhost:8080/ssm(项目名称)/user(控制器)/getById(方法)
 <br> 
 
 <br> 
