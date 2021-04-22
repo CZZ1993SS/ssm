@@ -18,7 +18,7 @@
         <io.codis.jodis>0.5.0</io.codis.jodis>
         <servlet.jsp.api>2.2</servlet.jsp.api>
         <servlet.jstl.api>1.2</servlet.jstl.api>
-        <mybatis.version>3.4.1</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <apache.commons.lang3>3.4</apache.commons.lang3>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
